@@ -5,6 +5,8 @@ A hub for literature related to spaced repetition and using it well. Contributio
 
 [Augmenting Long-term Memory - Michael Nielsen](https://augmentingcognition.com/ltm.html)
 
+[Spaced repetition for effective learning - Gwern Branwen](https://gwern.net/spaced-repetition) - an overview of the concept and research literature with some discussion of practical use
+
 [How to write good prompts: using spaced repetition to create understanding - Andy Matuschak](https://andymatuschak.org/prompts/)
 
 ## Systems
