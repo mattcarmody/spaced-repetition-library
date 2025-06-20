@@ -9,12 +9,12 @@ A hub for literature related to spaced repetition and using it well. Contributio
 
 ## Systems
 
-[Anki - General Purpose](https://apps.ankiweb.net/)
+[Anki](https://apps.ankiweb.net/) - a general purpose, mostly open-source SRS system
 
 
 ## Research
 
-[Open Spaced Repetition - a group researching spaced repetition algorithms](https://github.com/open-spaced-repetition)
+[Open Spaced Repetition](https://github.com/open-spaced-repetition) - a group researching and developing spaced repetition algorithms
 
 ### Tangential/related subjects
 
