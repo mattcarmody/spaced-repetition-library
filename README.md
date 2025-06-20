@@ -15,3 +15,7 @@ A hub for literature related to spaced repetition and using it well. Contributio
 ## Research
 
 [Open Spaced Repetition - a group researching spaced repetition algorithms](https://github.com/open-spaced-repetition)
+
+### Tangential/related subjects
+
+[Transfer of learning](https://en.wikipedia.org/wiki/Transfer_of_learning) - does knowledge rehearsed in SRS translate to real life or other domains?
