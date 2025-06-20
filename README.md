@@ -20,6 +20,8 @@ Forgetting curve
 
 Spacing effect
 
+Active recall
+
 ### Tangential/related subjects
 
 [Transfer of learning](https://en.wikipedia.org/wiki/Transfer_of_learning) - does knowledge rehearsed in SRS translate to real life or other domains?
