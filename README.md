@@ -7,6 +7,8 @@ A hub for literature related to spaced repetition and using it well. Contributio
 
 [Spaced repetition for effective learning - Gwern Branwen](https://gwern.net/spaced-repetition) - an overview of the concept and research literature with some discussion of practical use
 
+[Effective learning: Twenty rules of formulating knowledge - Piotr Wozniak](https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge) - a widely read write up from the creator of SuperMemo on using SRS well
+
 [How to write good prompts: using spaced repetition to create understanding - Andy Matuschak](https://andymatuschak.org/prompts/)
 
 ## Systems
