@@ -16,6 +16,10 @@ A hub for literature related to spaced repetition and using it well. Contributio
 
 [Open Spaced Repetition](https://github.com/open-spaced-repetition) - a group researching and developing spaced repetition algorithms
 
+Forgetting curve
+
+Spacing effect
+
 ### Tangential/related subjects
 
 [Transfer of learning](https://en.wikipedia.org/wiki/Transfer_of_learning) - does knowledge rehearsed in SRS translate to real life or other domains?
