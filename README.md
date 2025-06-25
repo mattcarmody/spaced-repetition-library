@@ -19,7 +19,9 @@ A hub for literature related to spaced repetition and using it well. Contributio
 
 ## Systems
 
-[Anki](https://apps.ankiweb.net/) - a general purpose, mostly open-source SRS system
+[Anki](https://apps.ankiweb.net/) - a general purpose, mostly free, mostly open-source SRS system
+
+[SuperMemo](https://supermemo.guru/wiki/SuperMemo) - an early pioneer of SRS, mostly paid and proprietary system
 
 
 ## Research
