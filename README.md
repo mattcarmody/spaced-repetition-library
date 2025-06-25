@@ -37,3 +37,10 @@ Active recall
 ### Tangential/related subjects
 
 [Transfer of learning](https://en.wikipedia.org/wiki/Transfer_of_learning) - does knowledge rehearsed in SRS translate to real life or other domains?
+
+
+## Communities
+
+[r/Anki](https://www.reddit.com/r/Anki/) - a subreddit dedicated to Anki discussion
+
+[r/medicalschoolanki](https://www.reddit.com/r/medicalschoolanki/) - a subreddit dedicated specifically to use of Anki in medical school
