@@ -11,6 +11,12 @@ A hub for literature related to spaced repetition and using it well. Contributio
 
 [How to write good prompts: using spaced repetition to create understanding - Andy Matuschak](https://andymatuschak.org/prompts/)
 
+## Using SRS in niche domains
+
+[Incremental Reading - Piotr Wozniak](https://supermemo.guru/wiki/Incremental_reading)
+
+[Using spaced repetition systems to see through a piece of mathematics - Michael Nielsen](https://cognitivemedium.com/srs-mathematics)
+
 ## Systems
 
 [Anki](https://apps.ankiweb.net/) - a general purpose, mostly open-source SRS system
