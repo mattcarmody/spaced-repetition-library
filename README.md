@@ -25,7 +25,15 @@ A hub for literature related to spaced repetition and using it well. Contributio
 
 ## Applications
 
-#### Quantum mechanics
+#### Language Learning
+
+A common use case for spaced repetion, there are many resources to be compiled here.
+
+#### Medical School
+
+[r/medicalschoolanki](https://www.reddit.com/r/medicalschoolanki/) - there are many customized resources dedicated to using spaced repetition to navigate medical school, this community is dedicated to doing so with Anki
+
+#### Quantum Mechanics
 
 [Quantum Country](https://quantum.country/) - an experiment in teaching quantum mechanics through a custom essay/spaced-repetion format
 
