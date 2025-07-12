@@ -23,6 +23,12 @@ A hub for literature related to spaced repetition and using it well. Contributio
 
 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) - an early pioneer of SRS, mostly paid and proprietary system
 
+## Applications
+
+#### Quantum mechanics
+
+[Quantum Country](https://quantum.country/) - an experiment in teaching quantum mechanics through a custom essay/spaced-repetion format
+
 
 ## Research
 
