@@ -17,6 +17,10 @@ A hub for literature related to spaced repetition and using it well. Contributio
 
 [Using spaced repetition systems to see through a piece of mathematics - Michael Nielsen](https://cognitivemedium.com/srs-mathematics)
 
+## Thinking about future systems
+
+[How can we develop transformative tools for thought? - Michael Nielsen and Andy Matuschak](https://numinous.productions/ttft/#improving-mnemonic-medium)
+
 ## Systems
 
 [Anki](https://apps.ankiweb.net/) - a general purpose, mostly free, mostly open-source SRS system
