@@ -27,6 +27,8 @@ A common use case for spaced repetion, there are many resources to be compiled h
 
 #### Niche domains
 
+[Using spaced repetition with young children](https://notes.andymatuschak.org/z3YDGbq68pHnAkpo9bjKFZg) - a few links to write ups of experiences with young children
+
 [Incremental Reading - Piotr Wozniak](https://supermemo.guru/wiki/Incremental_reading)
 
 [Using spaced repetition systems to see through a piece of mathematics - Michael Nielsen](https://cognitivemedium.com/srs-mathematics)
