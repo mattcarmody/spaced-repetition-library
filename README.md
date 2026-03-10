@@ -27,9 +27,7 @@ A common use case for spaced repetion, there are many resources to be compiled h
 
 #### Young Children
 
-[CoffeePie's interview with Chris Lakin](https://chrislakin.blog/p/spaced-repetition-for-teaching-two) - experience from a father raising two young children and using Anki to practice reading and math
-
-[Using spaced repetition with young children](https://notes.andymatuschak.org/z3YDGbq68pHnAkpo9bjKFZg) - as of 3/2026 solely a few notes on CoffePie's experience, linked above
+[CoffeePie's interview with Chris Lakin](https://chrislakin.blog/p/spaced-repetition-for-teaching-two) / [Cross post on LessWrong with discussion](https://www.lesswrong.com/posts/2PLBhCbByRMaEKimo/spaced-repetition-for-teaching-two-year-olds-how-to-read) / [Cross post on HackerNews with discussion](https://news.ycombinator.com/item?id=38427034) / [Cross post by Andy Matuschak](https://notes.andymatuschak.org/z3YDGbq68pHnAkpo9bjKFZg) - experience from a father raising two young children and using Anki to practice reading and math.
 
 #### Niche domains
 
