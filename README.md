@@ -11,7 +11,21 @@ A hub for literature related to spaced repetition and using it well. Contributio
 
 [How to write good prompts: using spaced repetition to create understanding - Andy Matuschak](https://andymatuschak.org/prompts/)
 
-## Using SRS in niche domains
+## Applications
+
+#### Language Learning
+
+A common use case for spaced repetion, there are many resources to be compiled here.
+
+#### Medical School
+
+[r/medicalschoolanki](https://www.reddit.com/r/medicalschoolanki/) - there are many customized resources dedicated to using spaced repetition to navigate medical school, this community is dedicated to doing so with Anki
+
+#### Quantum Mechanics
+
+[Quantum Country](https://quantum.country/) - an experiment in teaching quantum mechanics through a custom essay/spaced-repetion format
+
+#### Niche domains
 
 [Incremental Reading - Piotr Wozniak](https://supermemo.guru/wiki/Incremental_reading)
 
@@ -26,20 +40,6 @@ A hub for literature related to spaced repetition and using it well. Contributio
 [Anki](https://apps.ankiweb.net/) - a general purpose, mostly free, mostly open-source SRS system
 
 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) - an early pioneer of SRS, mostly paid and proprietary system
-
-## Applications
-
-#### Language Learning
-
-A common use case for spaced repetion, there are many resources to be compiled here.
-
-#### Medical School
-
-[r/medicalschoolanki](https://www.reddit.com/r/medicalschoolanki/) - there are many customized resources dedicated to using spaced repetition to navigate medical school, this community is dedicated to doing so with Anki
-
-#### Quantum Mechanics
-
-[Quantum Country](https://quantum.country/) - an experiment in teaching quantum mechanics through a custom essay/spaced-repetion format
 
 
 ## Research
