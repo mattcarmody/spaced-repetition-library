@@ -21,6 +21,10 @@ A common use case for spaced repetion, there are many resources to be compiled h
 
 [r/medicalschoolanki](https://www.reddit.com/r/medicalschoolanki/) - there are many customized resources dedicated to using spaced repetition to navigate medical school, this community is dedicated to doing so with Anki
 
+#### Computer Programming
+
+[Memorizing a programming language using spaced repetition software - Derek Sivers](https://sive.rs/srs) - concise overview on the concept and making it a core habit, applies it to language learning and computer programming
+
 #### Quantum Mechanics
 
 [Quantum Country](https://quantum.country/) - an experiment in teaching quantum mechanics through a custom essay/spaced-repetion format
