@@ -49,6 +49,11 @@ A common use case for spaced repetion, there are many resources to be compiled h
 
 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) - an early pioneer of SRS, mostly paid and proprietary system
 
+Quizlet
+
+Leitner system
+
+Duolingo
 
 ## Research
 
