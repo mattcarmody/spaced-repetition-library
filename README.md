@@ -15,7 +15,7 @@ A hub for literature related to spaced repetition and using it well. Contributio
 
 #### Language Learning
 
-A common use case for spaced repetion, there are many resources to be compiled here.
+A common use case for spaced repetion, there are many resources to be compiled here. Examples include vocabulary translations, pronunciation trainers, listening practice, grammar rules, reading comprehension, etc.
 
 #### Medical School
 
@@ -23,7 +23,7 @@ A common use case for spaced repetion, there are many resources to be compiled h
 
 #### General Knowledge
 
-There are many freely available decks that are used to commit general knowledge to memory. Presidents, countries on a map, country and state capitals, flags, periodic table elements, great works of art, NATO phonetic alphabet, Olympic host cities, etc.
+There are many freely available decks that are used to commit general knowledge to memory. Countries on a map, capitals, flags, world leaders, periodic table elements, great works of art, NATO phonetic alphabet, Olympic host cities, etc.
 
 #### Computer Programming
 
@@ -59,7 +59,7 @@ Quizlet
 
 Leitner system
 
-Duolingo
+Duolingo - a freemium langauge learning app that incorporates SRS concepts, though it is not strict in review schedule and inflexible
 
 ## Why does it work? Underlying concepts
 
