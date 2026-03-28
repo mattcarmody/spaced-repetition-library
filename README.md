@@ -25,23 +25,23 @@ A common use case for spaced repetion, there are many resources to be compiled h
 
 [Memorizing a programming language using spaced repetition software - Derek Sivers](https://sive.rs/srs) - concise overview on the concept and making it a core habit, applies it to language learning and computer programming
 
-#### Quantum Mechanics
-
-[Quantum Country](https://quantum.country/) - an experiment in teaching quantum mechanics through a custom essay/spaced-repetion format
-
 #### Young Children
 
 [CoffeePie's interview with Chris Lakin](https://chrislakin.blog/p/spaced-repetition-for-teaching-two) / [Cross post on LessWrong with discussion](https://www.lesswrong.com/posts/2PLBhCbByRMaEKimo/spaced-repetition-for-teaching-two-year-olds-how-to-read) / [Cross post on HackerNews with discussion](https://news.ycombinator.com/item?id=38427034) / [Cross post by Andy Matuschak](https://notes.andymatuschak.org/z3YDGbq68pHnAkpo9bjKFZg) - experience from a father raising two young children and using Anki to practice reading and math.
 
-#### Niche domains
+#### Miscellaneous domains
 
 [Incremental Reading - Piotr Wozniak](https://supermemo.guru/wiki/Incremental_reading)
 
 [Using spaced repetition systems to see through a piece of mathematics - Michael Nielsen](https://cognitivemedium.com/srs-mathematics)
 
+[Quantum Country](https://quantum.country/) - an experiment in teaching quantum mechanics through a custom essay/spaced-repetion format
+
 ## Thinking about future systems
 
 [How can we develop transformative tools for thought? - Michael Nielsen and Andy Matuschak](https://numinous.productions/ttft/#improving-mnemonic-medium)
+
+[Open Spaced Repetition](https://github.com/open-spaced-repetition) - a group researching and developing spaced repetition algorithms
 
 ## Systems
 
@@ -55,9 +55,7 @@ Leitner system
 
 Duolingo
 
-## Research
-
-[Open Spaced Repetition](https://github.com/open-spaced-repetition) - a group researching and developing spaced repetition algorithms
+## Why does it work? Underlying concepts
 
 Forgetting curve
 
@@ -65,9 +63,7 @@ Spacing effect
 
 Active recall
 
-### Tangential/related subjects
-
-[Transfer of learning](https://en.wikipedia.org/wiki/Transfer_of_learning) - does knowledge rehearsed in SRS translate to real life or other domains?
+[Transfer of learning](https://en.wikipedia.org/wiki/Transfer_of_learning) - does knowledge rehearsed in SRS translate to real life or other domains? is it good for more than regurgitating facts?
 
 
 ## Communities
