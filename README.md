@@ -29,6 +29,10 @@ There are many freely available decks that are used to commit general knowledge 
 
 [Memorizing a programming language using spaced repetition software - Derek Sivers](https://sive.rs/srs) - concise overview on the concept and making it a core habit, applies it to language learning and computer programming
 
+#### Older Children / Teens
+
+[A year of Anki in my Classroom](https://www.reddit.com/r/Anki/comments/1s4v9nf/a_year_of_anki_in_my_classroom/) - a teacher describes their informal experiment with SRS in their classroom, noting a correlation between Anki use and academic performance
+
 #### Young Children
 
 [CoffeePie's interview with Chris Lakin](https://chrislakin.blog/p/spaced-repetition-for-teaching-two) / [Cross post on LessWrong with discussion](https://www.lesswrong.com/posts/2PLBhCbByRMaEKimo/spaced-repetition-for-teaching-two-year-olds-how-to-read) / [Cross post on HackerNews with discussion](https://news.ycombinator.com/item?id=38427034) / [Cross post by Andy Matuschak](https://notes.andymatuschak.org/z3YDGbq68pHnAkpo9bjKFZg) - experience from a father raising two young children and using Anki to practice reading and math.
