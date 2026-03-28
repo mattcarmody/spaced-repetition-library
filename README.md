@@ -1,7 +1,7 @@
 # Spaced Repetition Library
 A hub for literature related to spaced repetition and using it well. Contributions encouraged.
 
-## Essays from power users on using SRS
+## How do people use it well? Essays from power users
 
 [Augmenting Long-term Memory - Michael Nielsen](https://augmentingcognition.com/ltm.html)
 
@@ -11,7 +11,7 @@ A hub for literature related to spaced repetition and using it well. Contributio
 
 [How to write good prompts: using spaced repetition to create understanding - Andy Matuschak](https://andymatuschak.org/prompts/)
 
-## Applications
+## What is it good for? Applications
 
 #### Language Learning
 
@@ -19,7 +19,11 @@ A common use case for spaced repetion, there are many resources to be compiled h
 
 #### Medical School
 
-[r/medicalschoolanki](https://www.reddit.com/r/medicalschoolanki/) - there are many customized resources dedicated to using spaced repetition to navigate medical school, this community is dedicated to doing so with Anki
+[r/medicalschoolanki](https://www.reddit.com/r/medicalschoolanki/) - medicine is arguably the most codified complex subject matter with widespread SRS use. there are many high quality resources dedicated to using SRS to study for medical school, this community is dedicated to doing so with Anki
+
+#### General Knowledge
+
+There are many freely available decks that are used to commit general knowledge to memory. Presidents, countries on a map, country and state capitals, flags, periodic table elements, great works of art, NATO phonetic alphabet, Olympic host cities, etc.
 
 #### Computer Programming
 
@@ -31,19 +35,21 @@ A common use case for spaced repetion, there are many resources to be compiled h
 
 #### Miscellaneous domains
 
+Trivia - some Jeopardy contestants have been known to use SRS
+
 [Incremental Reading - Piotr Wozniak](https://supermemo.guru/wiki/Incremental_reading)
 
 [Using spaced repetition systems to see through a piece of mathematics - Michael Nielsen](https://cognitivemedium.com/srs-mathematics)
 
 [Quantum Country](https://quantum.country/) - an experiment in teaching quantum mechanics through a custom essay/spaced-repetion format
 
-## Thinking about future systems
+## What next? Thinking about the future of SRS
 
 [How can we develop transformative tools for thought? - Michael Nielsen and Andy Matuschak](https://numinous.productions/ttft/#improving-mnemonic-medium)
 
 [Open Spaced Repetition](https://github.com/open-spaced-repetition) - a group researching and developing spaced repetition algorithms
 
-## Systems
+## What are some examples? SRS Implementations
 
 [Anki](https://apps.ankiweb.net/) - a general purpose, mostly free, mostly open-source SRS system
 
@@ -66,7 +72,7 @@ Active recall
 [Transfer of learning](https://en.wikipedia.org/wiki/Transfer_of_learning) - does knowledge rehearsed in SRS translate to real life or other domains? is it good for more than regurgitating facts?
 
 
-## Communities
+## Where do users talk about it? Communities
 
 [r/Anki](https://www.reddit.com/r/Anki/) - a subreddit dedicated to Anki discussion
 
