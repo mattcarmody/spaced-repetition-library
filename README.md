@@ -1,6 +1,10 @@
 # Spaced Repetition Library
 A hub for literature related to spaced repetition and using it well. Contributions encouraged.
 
+## What is it?
+
+Spaced repetition systems are flexible tools for remembering just about anything. Check out this early feature on the creator, [Want to Remember Everything You'll Ever Learn? Surrender to This Algorithm](https://www.wired.com/2008/04/ff-wozniak/)
+
 ## How do people use it well? Essays from power users
 
 [Augmenting Long-term Memory - Michael Nielsen](https://augmentingcognition.com/ltm.html)
