@@ -7,6 +7,15 @@ It is applied in many domains.
 All of these factors and mroe combine to create a robust ecosystem around the platform.
 This file attempts to compile many of those resources into one place, for my own use and that of others.
 
+It's available on Windows, Mac, Linux, FreeBSD, iOS, Android, and a web browser.
+
+The [Anki Manual](https://docs.ankiweb.net/) has tons of info on how to use it.
+
+### Communities
+- [Anki forum](https://forums.ankiweb.net/)
+- [r/Anki](https://www.reddit.com/r/Anki/)
+- [r/medicalschoolanki](https://www.reddit.com/r/medicalschoolanki/)
+
 ### Free Decks
 The Anki website provides a hub for [sharing and downloading free decks](https://ankiweb.net/shared/decks) that others have made.
 Topics vary widely, community members can share just about anything.
