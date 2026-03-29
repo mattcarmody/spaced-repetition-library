@@ -73,6 +73,8 @@ Leitner system
 
 Duolingo - a freemium langauge learning app that incorporates SRS concepts, though it is not strict in review schedule and inflexible
 
+Fluent Forever - a subscription language learning app built with spaced repetition and other core concepts from Gabriel Wyner's book of the same name
+
 ## Why does it work? Underlying concepts
 
 Forgetting curve
