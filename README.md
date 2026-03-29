@@ -39,7 +39,7 @@ There are many freely available decks that are used to commit general knowledge 
 
 #### Miscellaneous domains
 
-Trivia - some Jeopardy contestants have been known to use SRS
+Trivia - some Jeopardy contestants have been known to use SRS. For example, [Roger Craig](https://wiki.openhumans.org/wiki/Spaced_Repetition:_A_Cognitive_QS_Method_for_Knowledge_Acquisition)
 
 [Incremental Reading - Piotr Wozniak](https://supermemo.guru/wiki/Incremental_reading)
 
