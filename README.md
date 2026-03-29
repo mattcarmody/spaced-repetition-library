@@ -51,6 +51,10 @@ Trivia - some Jeopardy contestants have been known to use SRS. For example, [Rog
 
 [Quantum Country](https://quantum.country/) - an experiment in teaching quantum mechanics through a custom essay/spaced-repetion format
 
+[Memorizing My Days](https://wiki.openhumans.org/wiki/Memorizing_My_Days) - Steven Jonas explores using SRS to remember the interesting things that happen over the course of his daily life
+
+[Spaced Listening](https://wiki.openhumans.org/wiki/Spaced_Listening) - Steven Jonas needs a few listens to enjoy an album, heexperiments with using spaced repetition to schedule his listening
+
 ## What next? Thinking about the future of SRS
 
 [How can we develop transformative tools for thought? - Michael Nielsen and Andy Matuschak](https://numinous.productions/ttft/#improving-mnemonic-medium)
