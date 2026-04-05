@@ -33,6 +33,8 @@ There are many freely available decks that are used to commit general knowledge 
 
 [Memorizing a programming language using spaced repetition software - Derek Sivers](https://sive.rs/srs) - concise overview on the concept and making it a core habit, applies it to language learning and computer programming
 
+[Janki Method - Using SRS to Improve Programming - Jack Kinsella](https://www.scribd.com/document/593160890/Janki-Method-Using-SRS-to-Improve-Programming-Jack-Kinsella?v=0.230) (original article appears to be lost, hence Scribd) - the author's first summary of their approach which they later refine and write about
+
 #### Older Children / Teens
 
 [A year of Anki in my Classroom](https://www.reddit.com/r/Anki/comments/1s4v9nf/a_year_of_anki_in_my_classroom/) - a teacher describes their informal experiment with SRS in their classroom, noting a correlation between Anki use and academic performance
