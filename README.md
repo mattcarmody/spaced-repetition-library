@@ -33,7 +33,7 @@ There are many freely available decks that are used to commit general knowledge 
 
 [Memorizing a programming language using spaced repetition software - Derek Sivers](https://sive.rs/srs) - concise overview on the concept and making it a core habit, applies it to language learning and computer programming
 
-[Janki Method - Using SRS to Improve Programming - Jack Kinsella](https://www.scribd.com/document/593160890/Janki-Method-Using-SRS-to-Improve-Programming-Jack-Kinsella?v=0.230) (original article appears to be lost, hence Scribd) - the author's first summary of their approach which they later refine and write about
+Janki Method - Using SRS to Improve Programming - Jack Kinsella [Part 1](https://www.scribd.com/document/593160890/Janki-Method-Using-SRS-to-Improve-Programming-Jack-Kinsella?v=0.230) (original article appears to be lost, hence Scribd) [Part 2](https://www.semicolonandsons.com/articles/janki-method-refined) - the author's summary of their approach to improving their programming ability, which they gradually refined
 
 #### Older Children / Teens
 
