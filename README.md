@@ -73,6 +73,8 @@ Trivia - some Jeopardy contestants have been known to use SRS. For example, [Rog
 
 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) - an early pioneer of SRS, mostly paid and proprietary system
 
+[Mnemosyne](https://mnemosyne-proj.org/) - a general purpose SRS
+
 Quizlet
 
 Leitner system
