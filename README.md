@@ -99,3 +99,9 @@ Active recall
 [r/Anki](https://www.reddit.com/r/Anki/) - a subreddit dedicated to Anki discussion
 
 [r/medicalschoolanki](https://www.reddit.com/r/medicalschoolanki/) - a subreddit dedicated specifically to use of Anki in medical school
+
+## Other libraries
+
+[Gwern's literature review - 2019](https://gwern.net/spaced-repetition#literature-review)
+
+[Gary Wolf's SRS compilation - 2012](https://quantifiedself.com/blog/spaced-repetition-and-learning/)
