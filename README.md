@@ -21,6 +21,8 @@ Spaced repetition systems are flexible tools for remembering just about anything
 
 A common use case for spaced repetion, there are many resources to be compiled here. Examples include vocabulary translations, pronunciation trainers, listening practice, grammar rules, reading comprehension, etc.
 
+Language learning apps that incorporate SRS: Fluent Forever, Skritter, Duolingo
+
 #### Medical School
 
 [r/medicalschoolanki](https://www.reddit.com/r/medicalschoolanki/) - medicine is arguably the most codified complex subject matter with widespread SRS use. there are many high quality resources dedicated to using SRS to study for medical school, this community is dedicated to doing so with Anki
@@ -78,6 +80,8 @@ Leitner system
 Duolingo - a freemium langauge learning app that incorporates SRS concepts, though it is not strict in review schedule and inflexible
 
 Fluent Forever - a subscription language learning app built with spaced repetition and other core concepts from Gabriel Wyner's book of the same name
+
+[Skritter](https://skritter.com/) - a Chinese and Japanese language learning app with SRS built in
 
 ## Why does it work? Underlying concepts
 
