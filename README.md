@@ -7,7 +7,7 @@ Spaced repetition systems are flexible tools for remembering just about anything
 
 ## How do people use it well? Essays from power users
 
-[Augmenting Long-term Memory - Michael Nielsen](https://augmentingcognition.com/ltm.html)
+[Augmenting Long-term Memory - Michael Nielsen](https://augmentingcognition.com/ltm.html) - starts with an overview of how the author uses Anki. They walk through how they read a seminal research paper to become familiar with a new field, followed by their best practices for Anki use. Later they talk about memory systems generally.
 
 [Spaced repetition for effective learning - Gwern Branwen](https://gwern.net/spaced-repetition) - an overview of the concept and research literature with some discussion of practical use
 
