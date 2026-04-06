@@ -41,6 +41,8 @@ Janki Method - Using SRS to Improve Programming - Jack Kinsella [Part 1](https:/
 
 #### Older Children / Teens
 
+Seven Years of Spaced Repetition Software in the Classroom (high school)[Year One](https://www.lesswrong.com/posts/Ww2dxwWpSfkQB4NZb/a-year-of-spaced-repetition-software-in-the-classroom) & [Year Two](https://www.lesswrong.com/posts/dtCfxYubZgRnEkGpQ/a-second-year-of-spaced-repetition-software-in-the-classroom) & [Year Seven](https://www.lesswrong.com/posts/F6ZTtBXn2cFLmWPdM/seven-years-of-spaced-repetition-software-in-the-classroom-1)
+
 [A year of Anki in my Classroom](https://www.reddit.com/r/Anki/comments/1s4v9nf/a_year_of_anki_in_my_classroom/) - a teacher describes their informal experiment with SRS in their classroom, noting a correlation between Anki use and academic performance
 
 #### Young Children
