@@ -21,7 +21,7 @@ Spaced repetition systems are flexible tools for remembering just about anything
 
 A common use case for spaced repetion, there are many resources to be compiled here. Examples include vocabulary translations, pronunciation trainers, listening practice, grammar rules, reading comprehension, etc.
 
-Language learning apps that incorporate SRS: Fluent Forever, Skritter, Duolingo
+Language learning apps that incorporate SRS: Fluent Forever, Skritter, Duolingo, Memrise
 
 #### Medical School
 
@@ -82,6 +82,8 @@ Quizlet
 Leitner system
 
 Duolingo - a freemium langauge learning app that incorporates SRS concepts, though it is not strict in review schedule and inflexible
+
+[Memrise](https://www.memrise.com/) - a language learning app incorporating SRS
 
 Fluent Forever - a subscription language learning app built with spaced repetition and other core concepts from Gabriel Wyner's book of the same name
 
