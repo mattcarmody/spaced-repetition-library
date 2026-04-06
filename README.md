@@ -35,6 +35,8 @@ There are many freely available decks that are used to commit general knowledge 
 
 Janki Method - Using SRS to Improve Programming - Jack Kinsella [Part 1](https://www.scribd.com/document/593160890/Janki-Method-Using-SRS-to-Improve-Programming-Jack-Kinsella?v=0.230) (original article appears to be lost, hence Scribd) [Part 2](https://www.semicolonandsons.com/articles/janki-method-refined) - the author's summary of their approach to improving their programming ability, which they gradually refined
 
+[Execute Program](https://www.executeprogram.com/) - a site with programming courses that seem to include spaced repetition of the material
+
 #### Older Children / Teens
 
 [A year of Anki in my Classroom](https://www.reddit.com/r/Anki/comments/1s4v9nf/a_year_of_anki_in_my_classroom/) - a teacher describes their informal experiment with SRS in their classroom, noting a correlation between Anki use and academic performance
