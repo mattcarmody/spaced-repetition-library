@@ -79,6 +79,8 @@ Trivia - some Jeopardy contestants have been known to use SRS. For example, [Rog
 
 Quizlet
 
+[Cerego](https://www.cerego.com/) - seems to be a general purpose SRS w/ an AI component
+
 Leitner system
 
 Duolingo - a freemium langauge learning app that incorporates SRS concepts, though it is not strict in review schedule and inflexible
