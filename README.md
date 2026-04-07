@@ -110,6 +110,8 @@ Active recall
 
 ## Other libraries
 
-[Gwern's literature review - 2019](https://gwern.net/spaced-repetition#literature-review)
+Gwern's [literature review](https://gwern.net/spaced-repetition#literature-review) - 2019
 
-[Gary Wolf's SRS compilation - 2012](https://quantifiedself.com/blog/spaced-repetition-and-learning/)
+Gary Wolf's [SRS compilation](https://quantifiedself.com/blog/spaced-repetition-and-learning/) - 2012
+
+A redditor's [compilation](https://www.reddit.com/r/Anki/comments/ujzjgq/a_compilation_of_introductory_articles_to_spaced/) - 2022
