@@ -3,7 +3,7 @@ A hub for literature related to spaced repetition and using it well. Contributio
 
 ## What is it?
 
-Spaced repetition systems are flexible tools for remembering just about anything. Check out this early feature on the creator, [Want to Remember Everything You'll Ever Learn? Surrender to This Algorithm](https://www.wired.com/2008/04/ff-wozniak/)
+Spaced repetition systems are flexible tools for remembering just about anything. Check out this early feature on the creator, [Want to Remember Everything You'll Ever Learn? Surrender to This Algorithm](https://www.wired.com/2008/04/ff-wozniak/). Or check out this comic, [How to Remember Anything Forever-ish](https://ncase.me/remember/) walking through the concept.
 
 ## How do people use it well? Essays from power users
 
