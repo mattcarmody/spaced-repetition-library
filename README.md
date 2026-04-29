@@ -105,6 +105,7 @@ Fluent Forever - a subscription language learning app built with spaced repetiti
 
 [Transfer of learning](https://en.wikipedia.org/wiki/Transfer_of_learning) - does knowledge rehearsed in SRS translate to real life or other domains? is it good for more than regurgitating facts?
 
+For a long form work that looks at much of the research on strategies to aid learning and long term retention, there is [Make It Stick: The Science of Successful Learning](https://www.goodreads.com/book/show/18770267-make-it-stick) by Brown, Roediger III & McDaniel, 2014.
 
 ## Where do users talk about it? Communities
 
