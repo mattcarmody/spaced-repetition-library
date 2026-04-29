@@ -23,6 +23,8 @@ A common use case for spaced repetion, there are many resources to be compiled h
 
 Language learning apps that incorporate SRS: Fluent Forever, Skritter, Duolingo, Memrise
 
+Language learning books that incorporate SRS: [Fluent Forever](https://fluent-forever.com/book/) by Gabriel Wyner, 2014. [Fluent in 3 Months](https://www.fluentin3months.com/book-us/) by Benny Lewis, 2014
+
 #### Medical School
 
 [r/medicalschoolanki](https://www.reddit.com/r/medicalschoolanki/) - medicine is arguably the most codified complex subject matter with widespread SRS use. there are many high quality resources dedicated to using SRS to study for medical school, this community is dedicated to doing so with Anki
