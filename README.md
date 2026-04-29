@@ -39,7 +39,7 @@ Janki Method - Using SRS to Improve Programming - Jack Kinsella [Part 1](https:/
 
 [Execute Program](https://www.executeprogram.com/) - a site with programming courses that seem to include spaced repetition of the material
 
-#### Older Children / Teens
+#### Classroom - older children / teens
 
 Seven Years of Spaced Repetition Software in the Classroom (high school)[Year One](https://www.lesswrong.com/posts/Ww2dxwWpSfkQB4NZb/a-year-of-spaced-repetition-software-in-the-classroom) & [Year Two](https://www.lesswrong.com/posts/dtCfxYubZgRnEkGpQ/a-second-year-of-spaced-repetition-software-in-the-classroom) & [Year Seven](https://www.lesswrong.com/posts/F6ZTtBXn2cFLmWPdM/seven-years-of-spaced-repetition-software-in-the-classroom-1)
 
@@ -51,13 +51,13 @@ Seven Years of Spaced Repetition Software in the Classroom (high school)[Year On
 
 #### Miscellaneous domains
 
-Trivia - some Jeopardy contestants have been known to use SRS. For example, [Roger Craig](https://wiki.openhumans.org/wiki/Spaced_Repetition:_A_Cognitive_QS_Method_for_Knowledge_Acquisition)
+Trivia: some Jeopardy contestants have been known to use SRS. For example, [Roger Craig](https://wiki.openhumans.org/wiki/Spaced_Repetition:_A_Cognitive_QS_Method_for_Knowledge_Acquisition)
+
+Math: [Using spaced repetition systems to see through a piece of mathematics - Michael Nielsen](https://cognitivemedium.com/srs-mathematics)
+
+Quantum Mechanics: [Quantum Country](https://quantum.country/) - an experiment in teaching quantum mechanics through a custom essay/spaced-repetion format
 
 [Incremental Reading - Piotr Wozniak](https://supermemo.guru/wiki/Incremental_reading)
-
-[Using spaced repetition systems to see through a piece of mathematics - Michael Nielsen](https://cognitivemedium.com/srs-mathematics)
-
-[Quantum Country](https://quantum.country/) - an experiment in teaching quantum mechanics through a custom essay/spaced-repetion format
 
 [Memorizing My Days](https://wiki.openhumans.org/wiki/Memorizing_My_Days) - Steven Jonas explores using SRS to remember the interesting things that happen over the course of his daily life
 
