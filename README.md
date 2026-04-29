@@ -93,11 +93,11 @@ Fluent Forever - a subscription language learning app built with spaced repetiti
 
 ## Why does it work? Underlying concepts
 
-Forgetting curve
+[Forgetting curve](https://en.wikipedia.org/wiki/Forgetting_curve) - a hypothesized/measured plot of the rate that memories degrade over time when no attempt is made to retain it
 
-Spacing effect
+[Spacing effect](https://en.wikipedia.org/wiki/Spacing_effect) - phenomenon that spaced out practice is more effective for long term retention than cramming (massed practice)
 
-Active recall
+[Testing effect / Active recall](https://en.wikipedia.org/wiki/Testing_effect) - phenomenon that testing one's memory enhances the long term retention of information
 
 [Transfer of learning](https://en.wikipedia.org/wiki/Transfer_of_learning) - does knowledge rehearsed in SRS translate to real life or other domains? is it good for more than regurgitating facts?
 
