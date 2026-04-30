@@ -1,9 +1,31 @@
 # Spaced Repetition Library
 A hub for literature related to spaced repetition and using it well. Contributions encouraged.
 
-## What is it?
+## What is spaced repetition?
 
-Spaced repetition systems are flexible tools for remembering just about anything. Check out this early feature on the creator, [Want to Remember Everything You'll Ever Learn? Surrender to This Algorithm](https://www.wired.com/2008/04/ff-wozniak/). Or check out this comic, [How to Remember Anything Forever-ish](https://ncase.me/remember/) walking through the concept.
+Spaced repetition systems are flexible tools for remembering just about anything.
+As learners, we often put a lot of time and effort into learning something new. We read, watch and discuss new material, relating it to what we've learned before. Then we usually move on to the next thing and hope we remember it.
+The goal of spaced repetition is to make memory a choice, to be a tool that we use to choose what we want to remember. And to remember it with as little effort as possible.
+
+For more depth, check out this early feature on the creator, [Want to Remember Everything You'll Ever Learn? Surrender to This Algorithm](https://www.wired.com/2008/04/ff-wozniak/). Or check out this comic, [How to Remember Anything Forever-ish](https://ncase.me/remember/) walking through the concept.
+
+## What does it look like practically?
+
+Spaced repetition systems look like mini daily flashcard quizzes.
+Whenever I learn new material, I create question & answer flashcards for whatever I want to remember.
+Then I let the system keep track of the material and I check back daily to do the maintenance it recommends.
+
+Once a day I sit down and do my daily reviews, like a quiz.
+The system keeps track of what I remember well and what I don't. It queues up the material that it thinks I'm on the verge of forgetting and quizzes me on it.
+It walks me through cards one at a time.
+For each card it shows me the question, I think about the answer... then reveal it. Crucially, I tell the system if I got it right or wrong.
+The system then makes a choice. If I know the answer the system schedules the next review further out into the future. If I don't, the system queues it up soon.
+This means I don't have to review all that many cards a day, only the stuff I'm at risk of forgetting.
+Shockingly, this way I can maintain tens of thousands of cards in only 10-15 minutes a day!
+
+Now I'm done for the day, I'll be back later if I learn something new or I'll be back tomorrow to do those daily reviews.
+If I miss a day I'll have a larger review load, but I can catch up all at once or gradually, not the end of the world.
+It's become a foundational habit for me, I think of it as mental training. It's common to do physical training or exercise, this is a mental analogue.
 
 ## How do people use it well? Essays from power users
 
@@ -15,7 +37,7 @@ Spaced repetition systems are flexible tools for remembering just about anything
 
 [How to write good prompts: using spaced repetition to create understanding - Andy Matuschak](https://andymatuschak.org/prompts/)
 
-## What is it good for? Applications
+## What do people use it for? Applications
 
 #### Language Learning
 
@@ -47,7 +69,7 @@ Seven Years of Spaced Repetition Software in the Classroom (high school)[Year On
 
 [A year of Anki in my Classroom](https://www.reddit.com/r/Anki/comments/1s4v9nf/a_year_of_anki_in_my_classroom/) - a teacher describes their informal experiment with SRS in their classroom, noting a correlation between Anki use and academic performance
 
-#### Young Children
+#### Young Children's Education
 
 [CoffeePie's interview with Chris Lakin](https://chrislakin.blog/p/spaced-repetition-for-teaching-two) / [Cross post on LessWrong with discussion](https://www.lesswrong.com/posts/2PLBhCbByRMaEKimo/spaced-repetition-for-teaching-two-year-olds-how-to-read) / [Cross post on HackerNews with discussion](https://news.ycombinator.com/item?id=38427034) / [Cross post by Andy Matuschak](https://notes.andymatuschak.org/z3YDGbq68pHnAkpo9bjKFZg) - experience from a father raising two young children and using Anki to practice reading and math.
 
@@ -64,6 +86,8 @@ Quantum Mechanics: [Quantum Country](https://quantum.country/) - an experiment i
 [Memorizing My Days](https://wiki.openhumans.org/wiki/Memorizing_My_Days) - Steven Jonas explores using SRS to remember the interesting things that happen over the course of his daily life
 
 [Spaced Listening](https://wiki.openhumans.org/wiki/Spaced_Listening) - Steven Jonas needs a few listens to enjoy an album, heexperiments with using spaced repetition to schedule his listening
+
+Personal info: birthdays, names, etc.
 
 ## What next? Thinking about the future of SRS
 
