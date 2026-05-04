@@ -97,25 +97,9 @@ Personal info: birthdays, names, etc.
 
 ## What are some examples? SRS Implementations
 
-[Anki](https://apps.ankiweb.net/) - a general purpose, mostly free, mostly open-source SRS system
+General Purpose systems: [Anki](https://apps.ankiweb.net/) is a general purpose, mostly free, mostly open-source SRS system. [SuperMemo](https://supermemo.guru/wiki/SuperMemo) - an early pioneer of SRS, mostly paid and proprietary system. [Mnemosyne](https://mnemosyne-proj.org/) is a general purpose SRS. [Quizlet](https://quizlet.com/) is an education-focused SRS app. [Cerego](https://www.cerego.com/) - seems to be a general purpose SRS w/ an AI component. The [Leitner system](https://en.wikipedia.org/wiki/Leitner_system) is a rudiementary, analogue paper slips SRS.
 
-[SuperMemo](https://supermemo.guru/wiki/SuperMemo) - an early pioneer of SRS, mostly paid and proprietary system
-
-[Mnemosyne](https://mnemosyne-proj.org/) - a general purpose SRS
-
-Quizlet
-
-[Cerego](https://www.cerego.com/) - seems to be a general purpose SRS w/ an AI component
-
-Leitner system
-
-Duolingo - a freemium langauge learning app that incorporates SRS concepts, though it is not strict in review schedule and inflexible
-
-[Memrise](https://www.memrise.com/) - a language learning app incorporating SRS
-
-Fluent Forever - a subscription language learning app built with spaced repetition and other core concepts from Gabriel Wyner's book of the same name
-
-[Skritter](https://skritter.com/) - a Chinese and Japanese language learning app with SRS built in
+Language learning systems: [Memrise](https://www.memrise.com/) is a language learning app incorporating SRS. [Fluent Forever](https://fluent-forever.com/index.html) is a subscription language learning app built with spaced repetition and other core concepts from Gabriel Wyner's book of the same name. [Duolingo](https://www.duolingo.com/) is a popular, freemium langauge learning app that incorporates SRS concepts, though it is not strict in review schedule and inflexible. [Skritter](https://skritter.com/) is a Chinese and Japanese language learning app with SRS built in.
 
 ## Why does it work? Underlying concepts
 
