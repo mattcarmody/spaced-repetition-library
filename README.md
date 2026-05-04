@@ -27,25 +27,13 @@ Now I'm done for the day, I'll be back later if I learn something new or I'll be
 If I miss a day I'll have a larger review load, but I can catch up all at once or gradually, not the end of the world.
 It's become a foundational habit for me, I think of it as mental training. It's common to do physical training or exercise, this is a mental analogue.
 
-## How do people use it well? Essays from power users
-
-[Augmenting Long-term Memory - Michael Nielsen](https://augmentingcognition.com/ltm.html) - starts with an overview of how the author uses Anki. They walk through how they read a seminal research paper to become familiar with a new field, followed by their best practices for Anki use. Later they talk about memory systems generally.
-
-[Spaced repetition for effective learning - Gwern Branwen](https://gwern.net/spaced-repetition) - an overview of the concept and research literature with some discussion of practical use
-
-[Effective learning: Twenty rules of formulating knowledge - Piotr Wozniak](https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge) - a widely read write up from the creator of SuperMemo on using SRS well
-
-[How to write good prompts: using spaced repetition to create understanding - Andy Matuschak](https://andymatuschak.org/prompts/)
-
 ## What do people use it for? Applications
 
 #### Language Learning
 
-A common use case for spaced repetion, there are many resources to be compiled here. Examples include vocabulary translations, pronunciation trainers, listening practice, grammar rules, reading comprehension, etc.
-
-Language learning apps that incorporate SRS: Fluent Forever, Skritter, Duolingo, Memrise
-
-Language learning books that incorporate SRS: [Fluent Forever](https://fluent-forever.com/book/) by Gabriel Wyner, 2014. [Fluent in 3 Months](https://www.fluentin3months.com/book-us/) by Benny Lewis, 2014
+A common use case for spaced repetion, there are many resources to be compiled here. Examples include vocabulary translations, pronunciation trainers, listening practice, grammar rules, reading comprehension, etc. There are many apps dedicated to language learning that incorporate SRS: Fluent Forever, Skritter, Duolingo, Memrise.
+Books have been written that incorporate SRS into the language learning process:
+[Fluent Forever](https://fluent-forever.com/book/) by Gabriel Wyner, 2014. [Fluent in 3 Months](https://www.fluentin3months.com/book-us/) by Benny Lewis, 2014
 
 #### Medical School
 
@@ -53,7 +41,7 @@ Language learning books that incorporate SRS: [Fluent Forever](https://fluent-fo
 
 #### General Knowledge
 
-There are many freely available decks that are used to commit general knowledge to memory. Countries on a map, capitals, flags, world leaders, periodic table elements, great works of art, NATO phonetic alphabet, Olympic host cities, etc.
+There are many freely available decks that are used to commit general knowledge to memory. Countries on a map, capitals, flags, world leaders, periodic table elements, great works of art, birds, NATO phonetic alphabet, Olympic host cities, etc.
 
 #### Computer Programming
 
@@ -89,12 +77,6 @@ Quantum Mechanics: [Quantum Country](https://quantum.country/) - an experiment i
 
 Personal info: birthdays, names, etc.
 
-## What next? Thinking about the future of SRS
-
-[How can we develop transformative tools for thought? - Michael Nielsen and Andy Matuschak](https://numinous.productions/ttft/#improving-mnemonic-medium)
-
-[Open Spaced Repetition](https://github.com/open-spaced-repetition) - a group researching and developing spaced repetition algorithms
-
 ## What are some examples? SRS Implementations
 
 General Purpose systems: [Anki](https://apps.ankiweb.net/) is a general purpose, mostly free, mostly open-source SRS system. [SuperMemo](https://supermemo.guru/wiki/SuperMemo) - an early pioneer of SRS, mostly paid and proprietary system. [Mnemosyne](https://mnemosyne-proj.org/) is a general purpose SRS. [Quizlet](https://quizlet.com/) is an education-focused SRS app. [Cerego](https://www.cerego.com/) - seems to be a general purpose SRS w/ an AI component. The [Leitner system](https://en.wikipedia.org/wiki/Leitner_system) is a rudiementary, analogue paper slips SRS.
@@ -116,6 +98,22 @@ Language learning systems: [Memrise](https://www.memrise.com/) is a language lea
 [Transfer of learning](https://en.wikipedia.org/wiki/Transfer_of_learning) - does knowledge rehearsed in SRS translate to real life or other domains? is it good for more than regurgitating facts?
 
 For a long form work that looks at much of the research on strategies to aid learning and long term retention, there is [Make It Stick: The Science of Successful Learning](https://www.goodreads.com/book/show/18770267-make-it-stick) by Brown, Roediger III & McDaniel, 2014.
+
+## How do people use it well? Essays from power users
+
+[Augmenting Long-term Memory - Michael Nielsen](https://augmentingcognition.com/ltm.html) - starts with an overview of how the author uses Anki. They walk through how they read a seminal research paper to become familiar with a new field, followed by their best practices for Anki use. Later they talk about memory systems generally.
+
+[Spaced repetition for effective learning - Gwern Branwen](https://gwern.net/spaced-repetition) - an overview of the concept and research literature with some discussion of practical use
+
+[Effective learning: Twenty rules of formulating knowledge - Piotr Wozniak](https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge) - a widely read write up from the creator of SuperMemo on using SRS well
+
+[How to write good prompts: using spaced repetition to create understanding - Andy Matuschak](https://andymatuschak.org/prompts/)
+
+## What next? Thinking about the future of SRS
+
+[How can we develop transformative tools for thought? - Michael Nielsen and Andy Matuschak](https://numinous.productions/ttft/#improving-mnemonic-medium)
+
+[Open Spaced Repetition](https://github.com/open-spaced-repetition) - a group researching and developing spaced repetition algorithms
 
 ## Where do users talk about it? Communities
 
